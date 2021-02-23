@@ -1,0 +1,37 @@
+
+.header {
+    font-family: 'Arial';
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    background: black;
+    color: #d4d4d0;
+    padding: 10px;
+    border: none;
+}
+h4 {
+    margin: 20px;
+    padding: 10px;
+}
+
+table {
+    margin: auto;
+    width: 30%;
+    font-size: 1.2em;
+    border: rgba(20, 20, 20, 0.37) solid 2px;
+    border-radius: 6px;
+}
+
+th {
+    margin: 10px;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
